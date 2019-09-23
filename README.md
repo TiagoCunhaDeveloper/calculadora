@@ -1,3 +1,3 @@
 # Calculadora
 
-### Projeto de uma calculadora básica códificada em JavaScript (ES6)
+### Projeto de uma calculadora básica codificada em JavaScript (ES6)
